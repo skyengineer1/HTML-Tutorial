@@ -17,9 +17,6 @@ A simple example of a two-container layout where the left and right containers a
 ├── style.css
 ```
 
-## Preview 🎥
-![Layout Screenshot](preview.png)
-
 ## How to Contribute 📚
 1. Fork the repository.
 2. Create a new branch.
